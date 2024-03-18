@@ -1,0 +1,28 @@
+{
+  "name": "mindful-living-face",
+  "version": "1.0.0",
+  "description": "Mindful Living Utils is a Node.js module providing a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wadeboatman5/mindful-living-face"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "ringcosmic-horizons": "1.0.0",
+    "kastpitocidanielle-text-crypto": "1.1.4",
+    "cosmic-tools-urge": "1.0.0",
+    "soulful-hope": "1.0.0",
+    "meet-astro-util": "1.0.0",
+    "soulful-tools-stop": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadeboatman5/mindful-living-face/issues"
+  },
+  "homepage": "https://github.com/wadeboatman5/mindful-living-face#readme"
+}
